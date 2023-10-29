@@ -6,7 +6,7 @@
 
 SKILLS:<br>
 HTML - CSS - Javascript - Typescript - Bootstrap - Angular<br>
-Java - SpringBoot - Maven - Swing - MySQL 
+Java - SpringBoot - Maven - Swing - JUnit - Jenkins - MySQL 
 
 💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
 
