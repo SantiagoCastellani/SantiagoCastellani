@@ -15,8 +15,6 @@ Java - SpringBoot - Maven - Swing - JUnit - Jenkins - MySQL
 
 💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
 
-- Actualmente desarrollando en Angular y Java. 
-
 Redes:<br>
 [Linkedin](https://www.linkedin.com/in/santiagocastellani/)
 
