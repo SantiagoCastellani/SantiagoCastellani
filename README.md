@@ -18,7 +18,7 @@ Java - SpringBoot - Maven - Swing - JUnit - Jenkins - MySQL
 - Actualmente desarrollando en Angular y Java. 
 
 Redes:<br>
-[In](https://www.linkedin.com/in/santiagocastellani/)
+[Linkedin](https://www.linkedin.com/in/santiagocastellani/)
 
 Thank you for your visit ✨
 
