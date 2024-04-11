@@ -9,6 +9,10 @@ HTML - CSS - Javascript - Bootstrap<br>
 Angular - Angular Material - Typescript - Jest<br>
 Java - SpringBoot - Maven - Swing - JUnit - Jenkins - MySQL 
 
+- Actualmente trabajando en Desarrollo Web en Angular y Java.
+
+- Estudiante de Tecnicatura en Programación en la UTN-frgp.
+
 💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
 
 - Actualmente desarrollando en Angular y Java. 
