@@ -5,10 +5,13 @@
 🌱 *"En la programación encuentro la unión entre el arte y la lógica, dos pasiones que desde niño cultivo."*
 
 SKILLS:<br>
-HTML - CSS - Javascript - Typescript - Bootstrap - Angular<br>
+HTML - CSS - Javascript - Bootstrap<br>
+Angular - Angular Material - Typescript - Jest<br>
 Java - SpringBoot - Maven - Swing - JUnit - Jenkins - MySQL 
 
 💬 Abierto a colaborar en proyectos que permitan sumar aprendizaje.
+
+- Actualmente desarrollando en Angular y Java. 
 
 Redes:<br>
 [In](https://www.linkedin.com/in/santiagocastellani/)
